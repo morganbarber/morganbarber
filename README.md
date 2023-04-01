@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Morgan Barber]!
 
 Welcome to my GitHub profile! I am a passionate game designer and machine learning enthusiast who loves creating, exploring, and learning new things. I'm always enthusiastic about indulging in exciting projects that combine my love for game design and machine learning, and I look forward to collaborating with others who share the same passion!
 
