@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I am a passionate game designer and machine learning enthusiast who loves creating, exploring, and learning new things. I'm always enthusiastic about indulging in exciting projects that combine my love for game design and machine learning, and I look forward to collaborating with others who share the same passion!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=morganbarber&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
 </p>
 
 ## 🕹️ Game Design
@@ -28,8 +28,8 @@ In addition to these core skills, I am also proficient in other technologies, su
 
 ## 🤝 Let's Connect!
 
-I'm always excited to meet new people and collaborate on exciting projects, whether it's creating the next hit game or developing innovative machine learning applications. If you're interested in working together or just want to chat about game design or machine learning, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or [Twitter](https://twitter.com/yourtwitterhandle).
+I'm always excited to meet new people and collaborate on exciting projects, whether it's creating the next hit game or developing innovative machine learning applications. If you're interested in working together or just want to chat about game design or machine learning, feel free to reach out to me on Discord at bobb#6824.
 
 Thank you for stopping by my GitHub profile! I look forward to connecting with you and sharing our passion for game design and machine learning! 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/yourusername/github-readme-stats)
