@@ -34,4 +34,4 @@ I'm always excited to meet new people and collaborate on exciting projects, whet
 
 Thank you for stopping by my GitHub profile! I look forward to connecting with you and sharing our passion for game design and machine learning! 😄
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/morganbarber/github-readme-stats)
