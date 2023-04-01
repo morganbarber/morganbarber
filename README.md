@@ -36,4 +36,7 @@ Thank you for stopping by my GitHub profile! I look forward to connecting with y
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/morganbarber/github-readme-stats)
 
-[Portfolio]: # '[Link with example title.](https://morganbarber.github.io/Portfolio/)'
+
+# Portfolio
+
+https://morganbarber.github.io/Portfolio/
