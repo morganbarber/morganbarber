@@ -30,7 +30,7 @@ In addition to these core skills, I am also proficient in other technologies, su
 
 ## 🤝 Let's Connect!
 
-I'm always excited to meet new people and collaborate on exciting projects, whether it's creating the next hit game or developing innovative machine learning applications. If you're interested in working together or just want to chat about game design or machine learning, feel free to reach out to me on Discord at bobb#6824.
+I'm always excited to meet new people and collaborate on exciting projects, whether it's creating the next hit game or developing innovative machine learning applications. If you're interested in working together or just want to chat about game design or machine learning, feel free to reach out to me on email at morganbarber928@gmail.com.
 
 Thank you for stopping by my GitHub profile! I look forward to connecting with you and sharing our passion for game design and machine learning! 😄
 
