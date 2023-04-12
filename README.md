@@ -42,3 +42,11 @@ Thank you for stopping by my GitHub profile! I look forward to connecting with y
 # Portfolio
 
 https://morganbarber.github.io/Portfolio/
+
+# Coming Soon
+
+- Simulating Enviorments
+- Survival game ML
+- Capture the flag ML
+- Web Framework
+- And more...
