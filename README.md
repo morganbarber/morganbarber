@@ -6,14 +6,6 @@ Welcome to my GitHub profile! I am a passionate game designer and machine learni
   <img src="https://github-readme-stats.vercel.app/api?username=morganbarber&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
 </p>
 
-## 🕹️ Game Design
-
-As a game designer, I'm always thinking about how to create unique and engaging experiences for players. I believe that games have the power to bring people together, inspire creativity, and even teach valuable life lessons. In my journey as a game designer, I have worked on various projects, from simple 2D platformers to immersive 3D worlds. I'm always eager to experiment with new ideas and push the boundaries of what is possible in the world of game design.
-
-## 🤖 Machine Learning
-
-I have always been fascinated by the potential of machine learning and AI, and I'm excited to explore the ways in which these technologies can revolutionize the gaming industry. From creating more realistic and dynamic game worlds to developing advanced AI-driven characters, there are endless possibilities for integrating machine learning into game design. I'm constantly learning and staying up-to-date with the latest advancements in machine learning to ensure that I can bring these cutting-edge technologies to my projects!
-
 ## 💻 Skills
 
 I have developed a strong skill set in various programming languages and technologies, which enables me to create versatile and high-quality projects. Some of the key skills I possess are:
