@@ -1,31 +1,33 @@
-# 👋 Hi there, I'm Morgan Barber!
+# Morgan Barber's GitHub Profile
 
-Welcome to my GitHub profile! I am a passionate game designer and machine learning enthusiast who loves creating, exploring, and learning new things. I'm always enthusiastic about indulging in exciting projects that combine my love for game design and machine learning, and I look forward to collaborating with others who share the same passion!
+![GitHub Followers](https://img.shields.io/github/followers/morganbarber?style=social) ![GitHub Stars](https://img.shields.io/github/stars/morganbarber?style=social)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=morganbarber&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" />
-</p>
+## About Me
 
-## 💻 Skills
+👋 Hi there! I'm Morgan Barber, a passionate software developer and game designer with experience in C++, C#, C, Python, Unreal Engine, Machine Learning, HTML, and Node.JS. My interest in game design led me to explore various technologies and frameworks, allowing me to expand my skill set and work on a variety of projects.
 
-I have developed a strong skill set in various programming languages and technologies, which enables me to create versatile and high-quality projects. Some of the key skills I possess are:
+🎓 I am currently working towards my associate's degree in Cyber Security at Front Range Community College.
 
-**Python**: As a versatile language, Python is my go-to choice for implementing machine learning algorithms, creating game prototypes, and scripting various game logic components.
+## Skills
 
-**C++**: With its robust and powerful capabilities, C++ is a crucial tool in my arsenal for developing high-performance games and handling complex game engine tasks.
+- 🎮 Game Design: Unreal Engine
+- 🌐 Web Development: HTML, Node.JS
+- 💻 Programming Languages: C++, C#, C, Python
+- 🤖 Machine Learning
 
-**Node.js**: This runtime environment allows me to efficiently build scalable and high-performance server-side applications, utilizing JavaScript for both front-end and back-end development.
+## Projects
 
-**HTML**: As a fundamental building block of the web, my skills in HTML allow me to create engaging and interactive web-based experiences for showcasing my projects and sharing my passion for game design and machine learning.
+Here are some of my favorite projects that I have worked on:
 
-In addition to these core skills, I am also proficient in other technologies, such as JavaScript, CSS, and various game engines like Unity and Unreal Engine. I am always eager to learn new skills and keep up with the latest industry trends to ensure that my projects are always on the cutting edge.
+- **Creating a neural network from scratch**: Using nothing but numpy I created a neural network in python. [More Information Here](https://github.com/morganbarber/Neural-Network/tree/main)
+- **Maze ML**: Using pygame and numpy, I created a group of deep learning neural networks to communicate with eachother while navigating through a maze. [More Information Here](https://github.com/morganbarber/Maze-ML/tree/main)
 
-## 🤝 Let's Connect!
+## Connect with Me
 
-I'm always excited to meet new people and collaborate on exciting projects, whether it's creating the next hit game or developing innovative machine learning applications. If you're interested in working together or just want to chat about game design or machine learning, feel free to reach out to me on email at morganbarber928@gmail.com.
+Email: morganbarber928@gmail.com
 
-Thank you for stopping by my GitHub profile! I look forward to connecting with you and sharing our passion for game design and machine learning! 😄
+## Support My Work
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber)](https://github.com/anuraghazra/github-readme-stats)
+If you like my work, consider supporting me by giving me a ⭐ on my repositories or following me on GitHub.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morganbarber&theme=dark&background=000000)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morganbarber&show_icons=true)
