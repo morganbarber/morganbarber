@@ -6,8 +6,6 @@
 
 👋 Hi there! I'm Morgan Barber, a passionate software developer and game designer with experience in C++, C#, C, Python, Unreal Engine, Machine Learning, HTML, and Node.JS. My interest in game design led me to explore various technologies and frameworks, allowing me to expand my skill set and work on a variety of projects.
 
-🎓 I am currently working towards my associate's degree in Cyber Security at Front Range Community College.
-
 ## Skills
 
 - 🎮 Game Design: Unreal Engine
