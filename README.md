@@ -17,7 +17,6 @@
 
 Here are some of my favorite projects that I have worked on:
 
-- **Creating a neural network from scratch**: Using nothing but numpy I created a neural network in python. [More Information Here](https://github.com/morganbarber/Neural-Network/tree/main)
 - **Maze ML**: Using pygame and numpy, I created a group of deep learning neural networks to communicate with eachother while navigating through a maze. [More Information Here](https://github.com/morganbarber/Maze-ML/tree/main)
 
 ## Connect with Me
