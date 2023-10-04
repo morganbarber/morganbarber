@@ -10,14 +10,14 @@
 
 - 🎮 Game Design: Unreal Engine
 - 🌐 Web Development: HTML, Node.JS
-- 💻 Programming Languages: C++, C#, C, Python
+- 💻 Programming Languages: C++ and Python
 - 🤖 Machine Learning
 
 ## Projects
 
-Here are some of my favorite projects that I have worked on:
-
 - **Maze ML**: Using pygame and numpy, I created a group of deep learning neural networks to communicate with eachother while navigating through a maze. [More Information Here](https://github.com/morganbarber/Maze-ML/tree/main)
+
+- **Contract Analyzer**: Using express and OPENAI API I created a simple web application that asked GPT models to analyze contracts. [More Information Here](https://github.com/morganbarber/Contract-Analyzer)
 
 ## Connect with Me
 
