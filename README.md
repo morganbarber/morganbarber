@@ -27,4 +27,4 @@ Email: morganbarber928@gmail.com
 
 If you like my work, consider supporting me by giving me a ⭐ on my repositories or following me on GitHub.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=morganbarber&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morganbarber&layout=compact)
