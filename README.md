@@ -9,7 +9,7 @@
 ## Skills
 
 - 🎮 Game Design: Unreal Engine
-- 🌐 Web Development: HTML, Node.JS
+- 🌐 Web Development: React
 - 💻 Programming Languages: C++ and Python
 - 🤖 Machine Learning
 
