@@ -15,6 +15,8 @@
 
 ## Projects
 
+- **C4talyst**: Using python flask and next.js, I created an extensive financial manner leveraging google gemini and PostgreSQL. [More Information Here](https://github.com/morganbarber/Catalyst)
+
 - **Maze ML**: Using pygame and numpy, I created a group of deep learning neural networks to communicate with eachother while navigating through a maze. [More Information Here](https://github.com/morganbarber/Maze-ML/tree/main)
 
 - **Contract Analyzer**: Using express and OPENAI API I created a simple web application that asked GPT models to analyze contracts. [More Information Here](https://github.com/morganbarber/Contract-Analyzer)
