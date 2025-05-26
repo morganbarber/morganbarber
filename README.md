@@ -4,7 +4,7 @@
 
 ## About Me
 
-👋 Hi there! I'm Morgan Barber, a computer science geek with experience in C++, Python, Unreal Engine, HTML, and Node.JS. My interest in game design led me to explore various technologies and frameworks, allowing me to expand my skill set and work on a variety of projects.
+👋 Hi there! I'm Morgan Barber, I have experience in C++, Python, Unreal Engine, HTML, and Node.JS. My interest in game design led me to explore various technologies and frameworks, allowing me to expand my skill set and work on a variety of projects.
 
 ## Skills
 
